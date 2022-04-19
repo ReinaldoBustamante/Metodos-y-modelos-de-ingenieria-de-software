@@ -32,7 +32,7 @@ diversas vistas que se mencionaran a continuacion.
   o ejecucion  
 
 Los **Escenarios** se alinian con los casos de usos o las tareas de usuarios de un sistema y muestra como funcionan juntas
-las otras cuatro vistas. Para cada escenario, hay un script que describe la secuencia de interacciones entre objetos y procesos.
+las otras cuatro vistas. Para cada escenario, hay un **script** que describe la secuencia de interacciones entre objetos y procesos.
 
 Los diversos puntos de vistas no son totalmente independientes entre si. Si algunos de los puntos de vistas es considerado inutil puede 
 ser omitido.
