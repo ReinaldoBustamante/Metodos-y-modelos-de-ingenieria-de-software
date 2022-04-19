@@ -39,6 +39,11 @@ ser omitido.
 
 ## UML Component Diagram
 
+  Se refieren a los componentes de un sistema. Cada commponente proporciona una interfaz para que otros componentes interactuen con el.
+  Los diagramas de componentes se utilizan para visualizar como interactuan las pizas de un sistema y que relaciones tienen etre ellas.
+
+  ![UML CD](https://support.content.office.net/en-us/media/680f0334-8dfc-4ddd-bb6c-0ef7a1ecd92e.png)
+
 ## UML Package Diagram
 
 ## UML Deployment Diagram
