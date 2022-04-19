@@ -42,7 +42,13 @@ ser omitido.
   Se refieren a los componentes de un sistema. Cada commponente proporciona una interfaz para que otros componentes interactuen con el.
   Los diagramas de componentes se utilizan para visualizar como interactuan las pizas de un sistema y que relaciones tienen etre ellas.
 
-  ![UML CD](https://support.content.office.net/en-us/media/680f0334-8dfc-4ddd-bb6c-0ef7a1ecd92e.png)
+  ![UML CD](https://www.softwareideas.net/i/DirectImage/366/uml-component-diagram.png)
+
+  Lo que diferencia este diagrama a otros diagramas es que se trata de una estructura de alto nivel y no de detalles
+  como atributos y metodos. Se trata puramente de componentes y como interactuan entre si.
+
+  La base de los diagramas de componentes son los componentes y sus relaciones. Cada componente tiene una relacion especifica con
+  otro a travez de la interfaz de usuario que proporciona.
 
 ## UML Package Diagram
 
