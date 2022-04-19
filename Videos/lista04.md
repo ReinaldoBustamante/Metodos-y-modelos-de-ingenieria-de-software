@@ -24,7 +24,10 @@ diversas vistas que se mencionaran a continuacion.
 
 
 * **Development view**
-
+  Se describe la estructura jerarquica del software. La vista de desarrollo tambien considera elementos como lenguajes de
+  programacion, bibliotecas y conjunto de herramientas (Detalles del desarrollo de software ). Ademas del codigo se incluyen 
+  detalles de gestion como programacion, presupuestos y asignacion de trabajo siendo esto ultimo esencial.
+ 
 * **Physical View**
 
 ## UML Component Diagram
