@@ -51,6 +51,15 @@ ser omitido.
   otro a travez de la interfaz de usuario que proporciona.
 
 ## UML Package Diagram
+  Cuando crea software orientado a objetos, define clases que interactuan, aveces tienes varias clases que estan relacionadas de alguna 
+  manera. Un **Paquete** agrupa elementos del software que estan relacionados. Estos elementos se pueden relacionar en funcion de datos,
+  clases, tareas de usuarios, mismo paquete. Los diagramas de paquetes muestran los paquetes y las dependencias entre ellos. Puede crear
+  uno de estos diagramas para organizar su sistema completo en paquetes de elementos empaquetables relacionados. Estos son utiles cuando
+  se desea una mirada de alto nivel en su sistema. **Package Diagram** se puede crear en cualquier etapa del desarrollo. se adaptan y cambian
+  con la ultima version de su software. Son muy utiles para los diseñadores tecnicos para ver las dependencias y reaciones entre grupos 
+  de elementos relacionados.
+  ![UML PD](https://sparxsystems.com/enterprise_architect_user_guide/15.2/images/package-diagram-8220.png)
+
 
 ## UML Deployment Diagram
 
