@@ -62,7 +62,16 @@ ser omitido.
 
 
 ## UML Deployment Diagram
-  
+  Una version de software es algo mas que lineas de codigo agrupadas. Se trata de bibliotecas separadas, un ejecutable, por lo general,
+  un instalador, archivos de cofiguracion y otras piezas diferentes. Este diagrama se utiliza para visualizar los detalles de implementacion
+  de un sistema de software. Este puede ser muy especifico con dispositivos de hardware particulares o bastantes generales con sistemas operativos
+  compatibles. Existen 2 tipos diferentes de diagramas de implementacion.
+
+  * **Diagramas de nivel de especificacion**: Ofrece una vision general de los artefactos y los objetivos de implementacion, sin hacer 
+  referencia a detalles especificos como nombre de maquinas.
+
+  * **Diagramas de nivel de instancia**: Enfoque mucho mas especifico 
+  ![UML_DD](https://www.researchgate.net/profile/Ildefonso_Ruano/publication/305037371/figure/fig3/AS:381606486396933@1467993484834/UML-deployment-diagram-of-an-example-using-of-the-scormRTEjar-Java-package.png)
 
 ## UML Activity Diagram
 
