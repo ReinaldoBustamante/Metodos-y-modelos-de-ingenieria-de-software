@@ -107,7 +107,25 @@ ser omitido.
 
 
 ## Pipes and Filters
+  Arquitectura de tuberias y filtros esta centrada en el flujo de datos. Esta se puede utilizar cuando:
+  * Se puede especificar la secuencia de numero conocido de pasos
+  * No se requiere esperar la respuesta asincronica de cada paso
+  * Se busca que todos los componentes de abajo sean capaces de inspeccionar y actuar sobre los datos que vienen de arriba
+  
+  * **Ventajas**
+    * Simple de entender y simplificar
+    * Facilidad de mantenimiento y mejora
+    * Facilidad de diagnostico
+    * Fuerza un procesamiento secuencial
+    * Ejecucion concurrente
 
+  * **Desventaja**
+    * Demasiado simplista
+    * No maneja condicionales,bucles y otra logica de control de flujo
+    * No apto para situaciones interactivas
+    * Problema de rendimiento(datos se transmiten de forma completa)
+
+  ![UML_PF](https://images.slideplayer.es/40/11164730/slides/slide_16.jpg)
 ## Event Based
 
 ## Process Control
