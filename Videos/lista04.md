@@ -75,14 +75,22 @@ ser omitido.
 
 ## UML Activity Diagram
   Represena el flujo de control de una actividad a otra en un sistema de software. Cuando se crea esto lo primero que se debe realizar este
-  identificar las actividades(acciones realizadas por el sistema)
+  identificar las actividades(acciones realizadas por el sistema)                       
  
   ![UML_DA](https://www.ionos.es/digitalguide/fileadmin/DigitalGuide/Screenshots_2018/EN-UML-activity-diagram.png)
 
   Tambien pueden haber mas de 1 diagrama comunicandose en paralelo
  
 
-## Layered Systems
+## Layered System 
+  Un sistema en capas se definen en capas que siguen un orden jerarquico de la mas general a la mas oculta. estas capas interactuan con componentes  de su propia capa o capas adyacentes. Tambien en una arquitectura por capas una capa que esta en el inferior(mas oculta) 
+  puede interactuar con una que esta al comienzo entre comillas debido a que si sigue el esquema de que se comunican con las abyacentes
+  esta se comunicaria capa por capa hasta lllegar a su objetivo. Tambien es importante mencionar que esto utilizaria recursos
+  de procesamientos, por lo que si la cantidad de informacion que se desea trasladar es mucha, es
+  recomendable ocupar otra arquitectura. Estas arquitecturas son intuitivas y potentes, esta 
+  permite la separacion de preocupaciones. Cada capa es un conjunto de componentes. las capas se pueden cambiar facilmente porque fomentan
+  el codigo modular de acoplamiento suelto. tAMBIEN SIRVEN COMO PUNTO DE PARTIDA PARA ESTRUCTURAR EL SISTEMA
+  ![UML_LS](https://jjegonzalezf.files.wordpress.com/2013/03/layers.png)
 
 ## Cliente Server n-Tier
 
