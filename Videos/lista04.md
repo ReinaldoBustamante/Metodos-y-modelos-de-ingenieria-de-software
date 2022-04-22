@@ -95,6 +95,16 @@ ser omitido.
 
 ## Cliente Server n-Tier
   ![UML_CS](https://i.ibb.co/MZgHxxN/Screenshot-2022-04-21-223228.png)
+  
+  Cada vez que un sistema se pueda dividir en roles de servicio y roles de solicitante se debe considerar una arquitectura Cliente/Servidor.
+  Agregar mas niveles a esta arquitectura puede permitir una mayor separacion de preocupaciones, acoplamiento suelte, niveles de abstraccion 
+  lo que resulta en un sistema que es mas facil de cambiar y extender.
+
+  * **Ventajas**:
+    * Escalabilidad
+    * Centralizacion
+    * Separacion de preocupaciones
+
 
 ## Pipes and Filters
 
