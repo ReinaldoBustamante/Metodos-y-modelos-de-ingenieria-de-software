@@ -94,6 +94,7 @@ ser omitido.
   ![UML_LS](https://jjegonzalezf.files.wordpress.com/2013/03/layers.png)
 
 ## Cliente Server n-Tier
+  ![UML_CS](https://i.ibb.co/MZgHxxN/Screenshot-2022-04-21-223228.png)
 
 ## Pipes and Filters
 
