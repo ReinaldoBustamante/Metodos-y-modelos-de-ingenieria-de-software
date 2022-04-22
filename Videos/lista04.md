@@ -89,7 +89,8 @@ ser omitido.
   de procesamientos, por lo que si la cantidad de informacion que se desea trasladar es mucha, es
   recomendable ocupar otra arquitectura. Estas arquitecturas son intuitivas y potentes, esta 
   permite la separacion de preocupaciones. Cada capa es un conjunto de componentes. las capas se pueden cambiar facilmente porque fomentan
-  el codigo modular de acoplamiento suelto. tAMBIEN SIRVEN COMO PUNTO DE PARTIDA PARA ESTRUCTURAR EL SISTEMA
+  el codigo modular de acoplamiento suelto. tAMBIEN SIRVEN COMO PUNTO DE PARTIDA PARA ESTRUCTURAR EL SISTEMA.
+
   ![UML_LS](https://jjegonzalezf.files.wordpress.com/2013/03/layers.png)
 
 ## Cliente Server n-Tier
