@@ -74,6 +74,13 @@ ser omitido.
   ![UML_DD](https://www.researchgate.net/profile/Ildefonso_Ruano/publication/305037371/figure/fig3/AS:381606486396933@1467993484834/UML-deployment-diagram-of-an-example-using-of-the-scormRTEjar-Java-package.png)
 
 ## UML Activity Diagram
+  Represena el flujo de control de una actividad a otra en un sistema de software. Cuando se crea esto lo primero que se debe realizar este
+  identificar las actividades(acciones realizadas por el sistema)
+ 
+  ![UML_DA](https://www.ionos.es/digitalguide/fileadmin/DigitalGuide/Screenshots_2018/EN-UML-activity-diagram.png)
+
+  Tambien pueden haber mas de 1 diagrama comunicandose en paralelo
+ 
 
 ## Layered Systems
 
