@@ -32,11 +32,39 @@ Podemos ver el acoplamiento estrecho en el acoplamiento de una estructura de dat
 
 ## Measring Coupling
 
+El acoplamiento se puede medir en diferentes formas.
+
+* **Inestabilidad**: Es una medida de como el cambio se propaga a traves del sistema es decir, como el cambio externo afecta a la clase. La inestabilidad en cualquiera de los extremos es buena. EL medio es lo que podria indicar un problema.
+
+Esta se mide por las dependencia entrante llamada acoplamiento aferente, y las dependencias salientes llamadas acoplamiento eferente. 
+
+I = AE/(AE+AA)
+
 ## Cohesion
+
+Es lo bien que todo dentro de un modulo encaja, Lo bien que funciona hacia un proposito singular. cuando hablamos de cohesion lo hacemos en torno a su nivel, esto es para definir mejor lo que queremos decir cuando decimos cohesion.
+
+
 
 ## Measuring Cohesion
 
+Una forma de medir la cohesion es con LCOM4
+
 ## Measures of Quality
+
+Existen varias metricas que se pueden utilizar. Entre ellas:
+
+* **Densidad de defectos**: Se asocia a los defectos y errores que se encuentran en su codigo. El calculo de esto se logra durante el desarrollo, pruebas y despues del lanzamiento. Calcular esto es sencillo ya que es simplemente el numero de errores. 
+
+* **Complejidad cyclomatica**: Esto es simple de calcular. Simplemente todas las funcioes parten en 1, cuando encuentra un ciclo for,while o un condicional if cambia el flujo de control y le suma un 1.
+
+* **Complejidad cognitiva**
+
+* **Calificacion de capacidad de mantenimiento**
+
+* **Factor de acoplamiento**
+
+* **Falta de documentacion**
 
 ## Software Testing Introduction
 
