@@ -22,7 +22,7 @@ Consiste en colocar todas las fases del desarrollo de software una tras de otra.
 * predecible
 * eficiente
 
-entre sus desventajas estan:
+entre sus **desventajas** estan:
 * no es flexible al cambio
 * primera version toma mucho tiempo
 
@@ -30,8 +30,33 @@ entre sus desventajas estan:
 **OCUPAR ESTE MODELO SOLO Y SOLO SI EL TRABAJO ES MUY PREDICTIBLE O ES REPETITIBLE**
 ## V-Model
 
+Es lo mismo que cascada solo que las fases estan partidas en forma de v. en la **izquierda** podemos encontrar todas las fases correspondiente a la definicion del proyecto(conceptos, requerimiento, diseño) en la parte de abajo esta la implementacion y el otro lado estan las pruebas y validaciones. Este es un modelo **predictivo**.
+
+**beneficion**: 
+* Proporciona adeteccion temprana de posibles defectos y problemas 
+
+**Contras**:
+mas trabajo ya que en la fase de requerimientos debera tener una validacion de estos.
+
+**ESTE MODELO SE DEBE USAR CUANDO EXISTE AMBUGUEDAD EN LOS REQUISITOS Y LUEGO QUIERES ALGUN TIPO DE VALIDACION TEMPRANA**
+
 ## Sashimi
 
+Es basicamente comenzar con las primeras tareas del desarrollo en paralelo estas son (Requerimientos, diseño, implementacion y testin). Este modelo es **Predictivo** pero no al 100%.
+
+**Beneficios**:
+
+* Modelo util si desea acortar el tiempo de desarrollo. 
+
+* Las personas con diferentes habilidades pueden empezar a trabajar en el proyecto sin esperar a que el trabajo esta realizado para la fase anterior.
+
+* a veces se puede obtener un aprendizaje en una fase temprana.
+
+**Desventajas**:
+
+* modelo resulta en algo de retrabajo.
+
+**ESTE MODELO SE DEBE USAR CUANDO SE QUIERE ACORTAR LA ESCALA DE TIEMPO O SI SE TIENEN TODOS LOS RECURSOS(PERSONAL) DISPONIBLES Y SE DESEA QUE EL PROYECTO COMIENZE PRONTO**
 ## Incremental Models
 
 ## Unified Process and its Variants
