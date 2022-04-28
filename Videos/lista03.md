@@ -71,6 +71,37 @@ Es basicamente comenzar con las primeras tareas del desarrollo en paralelo estas
 
 ## Scrum
 
+En esta metodologia se trabaja en un sprint entre 1 a 4 semanas en donde se define,diseña,construye y prueba. Luego muestra su producto a sus partes interesadas y ve si necesita ajustar su producto o si necesita hacer algo diferente. Una vez hecho esto se repite el ciclo una y otra vez.
+
+### Roles Scrum
+
+* **Propietario del producto**: el que define lo que hay que hacer y en que orden.
+
+* **Scrum master**: Ayuda al equipo a mantenerse fiel a los valores y principios de scrum. ademas de ayudar a facilitar la mayoria de las reuniones del equipo.
+
+* **El equipo de desarrollo(Desarrolladores, tester y todos)**: los que hacen la mayor parte del software.
+
+Los pasos de esta metodologia son
+
+* 1) el propietario del producto va a hablar con los ejecutivos, el equipo, las partes interesadas, clientes, usuarios y tratara de definir exactamente lo que necesita ser construido. Esto creara algo llamado product backlog que es basicamente una lista de historias de usuarios que se priorizan y definen lo que se debe hacer.
+
+
+* 2) Una vez que el equipo esta listo se reunen en una reunion llamada sprint planning meeting. Luego escogen las mejores historias en las que pueden trabajar en el sprint existente. El propietario del producto revisas esas historias con el equipo y ayuda a responder cualquier pregunta o aclara cualquier cosa que no este clara.
+
+* 3) El equipo se reune de nuevo y luego hacen una tarea fuera de las historias lo que significa, como lo que exactamente tenemos que hacer para construir el software. Unos ejemplos de estos es diseñar bd, rellenar algunos datos, probarlos en la base de datos, crear interfaz de usuario.
+
+* 4) Luego comienza la fase de desarrollo donde todo el mundo esta trabajando para implementar el software.
+
+* 5) Cada 24 horas el equipo se reune en un stand-up en donde todos hablan de lo que hicieron ayer, que van a hacer hoy y si hay bloqueos.
+
+* 6) Una vez finalizado el sprint se termina teniendo el producto terminado.
+
+* 7) Una vez terminado el sprint suceden 2 reuniones **Sprint review** donde todo el equipo se reune con las partes interesadas,cliente y demostrar el trabajo que han hecho y obtener feedback. La siguiente reunion es **Retrospectiva de sprint** donde se habla del proceso y no del producto, es decir de como hacerlo mejor.
+Entonces se habla de lo que salio bien en el ultimo sprint y lo que no salio bien. 
+
+
+*
+
 ## Kanban
 
 ## Lean Startup
