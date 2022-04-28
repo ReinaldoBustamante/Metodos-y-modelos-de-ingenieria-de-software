@@ -100,7 +100,7 @@ Los pasos de esta metodologia son
 Entonces se habla de lo que salio bien en el ultimo sprint y lo que no salio bien. 
 
 
-*
+**Este modelo es adaptativo-iterativo**
 
 ## Kanban
 
